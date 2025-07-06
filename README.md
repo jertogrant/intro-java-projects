@@ -2,10 +2,6 @@
 
 Welcome! This repository contains beginner-level Java projects and exercises completed during my first semester of Computer Science at Thompson Rivers University (TRU).
 
-# 🧠 Intro Java Projects (COMP 1131 - TRU)
-
-Welcome! This repository contains beginner-level Java projects and exercises completed during my first semester of Computer Science at Thompson Rivers University (TRU).
-
 > 📍 **Goal:** Build a strong foundation in Java programming concepts — starting from basic syntax to object-oriented design — and show consistent growth through clear, well-organized code.
 
 ---
