@@ -1,38 +1,59 @@
-# 🧠 Intro Java Projects (COMP 1131 - TRU)
+# Intro to Java Projects — COMP 1131 (TRU)
 
-Welcome! This repository contains beginner-level Java projects and exercises completed during my first semester of Computer Science at Thompson Rivers University (TRU).
+This repository contains my first Java programming projects, completed during COMP 1131 – *Computer Programming I* at Thompson Rivers University. It serves as a record of my learning as I move from basic syntax to object-oriented programming concepts in Java.
 
-> 📍 **Goal:** Build a strong foundation in Java programming concepts — starting from basic syntax to object-oriented design — and show consistent growth through clear, well-organized code.
-
----
-
-## 🗂 Project Structure
-
-| Folder            | Description                            |
-|-------------------|----------------------------------------|
-| `01-variables/`    | Data types, variables, and printing    |
-| `02-conditionals/` | If/else, boolean logic, comparisons    |
-| `03-loops/`        | For, while, and nested loops           |
-| `04-methods/`      | Methods (functions) and parameters     |
-| `05-classes/`      | Object-oriented programming basics     |
-| `extras/`          | Any bonus or side projects             |
+> 🚀 This repo tracks my Java learning journey — one small project at a time.
 
 ---
 
-## 🚀 How to Run
+![Java](https://img.shields.io/badge/Language-Java-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Progress-Active-brightgreen?style=flat-square)
 
-To compile and run a file like `HelloWorld.java`:
+---
 
-```bash
-javac HelloWorld.java
-java HelloWorld
+## 📑 Table of Contents
+
+- [📁 Folders](#-folders)
+- [📝 Notes](#-notes)
+- [📘 Course Info](#-course-info)
+
+---
+
+## 📁 Folders
+
+| Folder             | Description                          |
+|--------------------|--------------------------------------|
+| `01-variables/`     | Data types, printing, formatting     |
+| `02-conditionals/`  | If/else logic and boolean ops        |
+| `03-loops/`         | Loops and repetition structures      |
+| `04-methods/`       | Functions, parameters, return values |
+| `05-classes/`       | Classes, objects, and constructors   |
+| `extras/`           | Bonus projects and experiments       |
+
+---
 
 ## 📝 Notes
 
-This repository is part of my learning journey as a Computer Science student at TRU. I’m using it to:
+This repository is part of my learning journey as a Computer Science student at TRU. Each folder represents a foundational concept in Java programming.
 
-- Practice and reinforce core programming concepts
-- Document steady progress over time
-- Showcase clean and organized code as I grow
+I’m using this repo to:
 
-All code is written from scratch unless noted otherwise.
+- Reinforce course concepts through practice
+- Showcase clean and readable code
+- Track my growth and learning milestones
+
+All code is written from scratch unless stated otherwise.
+
+---
+
+## 📘 Course Info
+
+- **Course**: COMP 1131 – Computer Programming I  
+- **Institution**: Thompson Rivers University (TRU)  
+- **Term**: Summer 2025  
+- **Language**: Java 17  
+- **Instructor**: *[Optional]*
+
+---
+
+Feel free to explore the code — feedback and suggestions are welcome!
