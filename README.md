@@ -26,3 +26,13 @@ To compile and run a file like `HelloWorld.java`:
 ```bash
 javac HelloWorld.java
 java HelloWorld
+
+## 📝 Notes
+
+This repository is part of my learning journey as a Computer Science student at TRU. I’m using it to:
+
+- Practice and reinforce core programming concepts
+- Document steady progress over time
+- Showcase clean and organized code as I grow
+
+All code is written from scratch unless noted otherwise.
