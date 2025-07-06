@@ -51,8 +51,7 @@ All code is written from scratch unless stated otherwise.
 - **Course**: COMP 1131 – Computer Programming I  
 - **Institution**: Thompson Rivers University (TRU)  
 - **Term**: Summer 2025  
-- **Language**: Java 17  
-- **Instructor**: *[Optional]*
+- **Language**: Java 17
 
 ---
 
