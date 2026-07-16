@@ -1,4 +1,4 @@
-# Intro to Java Projects — COMP 1131 (TRU)
+# Intro to Java Projects 
 
 This repository contains my first Java programming projects.
 >  This repo tracks my Java learning journey — one small project at a time.
